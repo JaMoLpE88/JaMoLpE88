@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello and welcome to my profile! 👋 
 
-<!--
-**JaMoLpE88/JaMoLpE88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Software Development Lover
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 👨‍🎓 My name is Javier, I am a Senior Computer Technician in Computer Application Development.
+* 👨‍💻 I consider myself a Junior Full Stack Developer with MERN and also with Ionic and React Native.
+* 📚 I have knowledge in JavaScript, TypeScript, Node, Deno, Mongo, MySQL.
+* 📕 I also have knowledge of Desktop Application Development with Electron.
+* ➡️ In short, I am a lover of everything that surrounds JavaScript 💛  & TypeScript 💙, and I try to keep learning and improving every day 💪
+
+---
+
+📫  Contact: [email](mailto:moreno.jml88@gmail.com)
