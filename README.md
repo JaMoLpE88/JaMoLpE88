@@ -1,4 +1,4 @@
-# Hello and welcome to my profile! 👋 
+<h1 align="center">Hello and welcome to my profile! 👋</h1>
 
 ### `<Software Development Lover />`
 
