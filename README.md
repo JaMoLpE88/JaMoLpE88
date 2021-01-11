@@ -10,4 +10,8 @@
 
 ### I try to keep learning and improving every day 💪
 
-📫  Contact: [email](mailto:moreno.jml88@gmail.com)
+📫 [Email](mailto:moreno.jml88@gmail.com)
+
+👨 [LinkedIn](https://www.linkedin.com/in/JaMoLpE88)
+
+🔗 [Freelancer](https://www.freelancer.com/u/JaMoLpE88)
