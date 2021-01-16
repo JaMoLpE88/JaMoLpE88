@@ -10,8 +10,10 @@
 
 ### I try to keep learning and improving every day 💪
 
-📫 [Email](mailto:moreno.jml88@gmail.com)
+🌐 [Web](https://momoware.com)
 
 👨 [LinkedIn](https://www.linkedin.com/in/JaMoLpE88)
 
 🔗 [Freelancer](https://www.freelancer.com/u/JaMoLpE88)
+
+📫 [Email](mailto:moreno.jml88@gmail.com)
