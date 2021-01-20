@@ -4,7 +4,7 @@
 
 * 👨‍🎓 My name is Javier, I am a Spanish Senior Computer Technician in Computer Application Development.
 * 👨‍💻 I am a Full Stack Developer with MERN and also with Ionic and React Native.
-* 📚 I have knowledge in JavaScript, TypeScript, Node, Deno, Mongo, MySQL, GraphQL, MariaDB, PHP...
+* 📚 I have knowledge in JavaScript, TypeScript, Node, Deno, Mongo, Firebase, PostgreSQL, MySQL, MariaDB, PHP, API, GraphQL...
 * 📕 I also have knowledge of Desktop Application Development with Electron.
 * ➡️ In short, I am a lover of everything that surrounds JavaScript 💛  & TypeScript 💙
 
