@@ -10,8 +10,6 @@
 
 ### I try to keep learning and improving every day 💪
 
-🌐 [Web](https://momoware.com)
-
 👨 [LinkedIn](https://www.linkedin.com/in/JaMoLpE88)
 
 🔗 [Freelancer](https://www.freelancer.com/u/JaMoLpE88)
