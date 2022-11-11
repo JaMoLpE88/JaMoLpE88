@@ -4,7 +4,7 @@
 
 * 👨‍🎓 My name is Javier, I am a Spanish Senior Computer Technician in Computer Application Development.
 * 👨‍💻 I am a Frontend and Mobile Developer with Next / React and React Native.
-* ➡️ I am a lover of everything that surrounds JavaScript 💛💙 TypeScript 
+* ➡️ I am a lover of everything that surrounds JavaScript 💛💙 TypeScript.
 
 ### I try to keep learning and improving every day 💪
 
