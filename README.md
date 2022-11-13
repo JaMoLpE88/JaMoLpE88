@@ -1,3 +1,5 @@
+![banner](https://pbs.twimg.com/profile_banners/1455656539021365262/1668243952/1500x500)
+
 <h1 align="center">Hello and welcome to my profile! 👋</h1>
 
 ### `<Software Development Lover />`
