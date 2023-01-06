@@ -5,7 +5,9 @@
 ### `<Software Development Lover />`
 
 👨‍🎓 My name is Javier, I am a Full Stack Developer
+
 👨‍💻 I can develop complete fully functional applications with their Frontend, Backend and their respective Database
+
 ➡️ I am a lover of everything that surrounds JavaScript 💛
 
 ### I try to keep learning and improving every day 💪
