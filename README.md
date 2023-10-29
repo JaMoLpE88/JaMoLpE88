@@ -12,6 +12,4 @@
 
 ### I try to keep learning and improving every day 💪
 
-👨 [LinkedIn](https://www.linkedin.com/in/JaMoLpE88)
-
 📫 [Email](mailto:moreno.jml88@gmail.com)
