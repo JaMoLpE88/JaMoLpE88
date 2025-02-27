@@ -8,7 +8,7 @@
 
 👨‍💻 I can develop complete fully functional applications with their Frontend, Backend and their respective Database
 
-➡️ I am a lover of everything that surrounds JavaScript 💛
+➡️ I am a lover of everything that surrounds JavaScript 💛 TypeScript 💙
 
 ### I try to keep learning and improving every day 💪
 
